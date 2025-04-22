@@ -1,0 +1,30 @@
+c --> pop [procedure oriented programming] 
+c++ --> oop [object oriented programming]
+
+        --> class, objects , inheritance, abstraction, encapsulation, polymorphism
+
+
+
+class -> logical , group, generalization |
+object -> member, physical, specific, specialization
+
+class use ==> variable + method
+object use ==> property [variable + method]
+
+
+class == structure 
+
+// struct Student{
+
+//     int id;
+//     char name[20];
+//     char address[20];
+} s;
+
+
+class Student {
+
+
+};
+
+Student S;
