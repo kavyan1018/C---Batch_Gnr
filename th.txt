@@ -28,3 +28,44 @@ class Student {
 };
 
 Student S;
+
+oops : 
+        1) oops follow top down approach
+        2) oops is an object driven language
+        3) oops is an object based programming language : objest is more important than data
+        4) opps is an non sequential programming language : instruction is not in sequential order
+        5) oops is an non structured programming language : no structure is followed      
+
+
+class based approach
+
+
+iostream : input stream + output stream
+
+
+
+                                IOS ---> Present Class 
+
+        input ---> istream [input stream]               output ---> ostream [output stream]
+
+                                  iostream            
+
+
+
+
+oops concept :
+        1) class and object
+        2) inheritance
+        3) polymorphism
+        4) encapsulation
+        5) abstraction
+
+
+1) class and object: 
+
+        class : class is a user defined data type which is used to represent the logical grouping of data and function.
+              : class is group of data member and function member.
+              : class is a blueprint of object.
+
+
+object : object is entity / identity of class 
